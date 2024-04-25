@@ -1,8 +1,3 @@
-#!/bin/bash
-
-
-codePracticeDir="/mnt/simulations/hira/Sam/GerardCodePractice"
-
 function Msg(){
 	# Opening message :)
 	cat .fishtankhelp-msg
