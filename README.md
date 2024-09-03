@@ -20,7 +20,7 @@ Here's a quick list of the custom functions to help you get started: \
 2. **cmdhelp** \-\- A list of some common (and useful) bash commands (ls, cat, mv, etc). 
 3. **practiceDir** \-\- Takes you to /mnt/simulations/hira/Sam/CodePractice/ where you can find some python and ROOT examples 
 	* Better examples can be found online, but take a look if you want. As of 9/3/24 I need to update this directory. 
-\
 
-To see these three options (with more potentially on the way), you can type **HELP** to open up an interactive menu :) 
+
+To see these three options (with more potentially on the way), you can type **HELP** to open up an interactive menu :slightly_smiling_face:
 
