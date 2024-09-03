@@ -14,9 +14,7 @@ From there, move the files from the repository into your home directory with
 mv -i -t /~ ./.bashrc ./.bash_aliases ./.bash_profile ./.bash_functions ./.fishtankhelp-msg
 ```
 \
-\
-Here's a quick list of the functions to help you get started. \
-hey
-
+Here's a quick list of the functions to help you get started.
+# *githelp*\- Helpful commands for setting up a git repository, adding files, commiting, pushing, etc. \
 
 
