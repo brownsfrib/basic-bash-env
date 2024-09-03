@@ -15,6 +15,6 @@ mv -i -t /~ ./.bashrc ./.bash_aliases ./.bash_profile ./.bash_functions ./.fisht
 ```
 \
 Here's a quick list of the functions to help you get started.
-# *githelp*\- Helpful commands for setting up a git repository, adding files, commiting, pushing, etc. \
+*githelp*\- Helpful commands for setting up a git repository, adding files, commiting, pushing, etc. \
 
 
