@@ -1,5 +1,6 @@
 # Basic shell environment for starting on fishtank :slightly_smiling_face:
 **A basic bashrc with some useful aliases.** \
+Checkout https://phoenixnap.com/kb/bash-commands for some basic bash commands. \
 Set up is easy - within your home directory, 
 ```console
 cd ~
