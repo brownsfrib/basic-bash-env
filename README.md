@@ -16,7 +16,6 @@ mv -i -t /~ ./.bashrc ./.bash_aliases ./.bash_profile ./.bash_functions ./.fisht
 ```
 \
 Here's a quick list of the custom functions to help you get started: \
-\
 1. **githelp** \-\- Helpful commands for setting up a git repository, adding files, commiting, pushing, etc. 
 2. **cmdhelp** \-\- A list of some common (and useful) bash commands (ls, cat, mv, etc). 
 3. **practiceDir** \-\- Takes you to /mnt/simulations/hira/Sam/CodePractice/ where you can find some python and ROOT examples 
