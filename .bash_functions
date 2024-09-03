@@ -31,7 +31,7 @@ function practiceDir(){
 	# 2. Basic command line navigation
 	# 3. Compiling C++ code, running executables
 
-	codePracticeDir="/mnt/simulations/hira/Sam/GerardCodePractice"
+	codePracticeDir="/mnt/simulations/hira/Sam/CodePractice"
 	cd $codePracticeDir
 	echo -e ""
 	echo -e "This is a ${YEL}directory${NC} containing ${YEL}sub-directories${NC} aimed at helping you learn some basic code/fishtank stuff you'll have to do :)"
