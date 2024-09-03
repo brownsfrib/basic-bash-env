@@ -16,6 +16,7 @@ mv -i -t /~ ./.bashrc ./.bash_aliases ./.bash_profile ./.bash_functions ./.fisht
 \
 \
 Here's a quick list of the functions to help you get started. \
+hey
 
 
 
